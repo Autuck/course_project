@@ -1,0 +1,30 @@
+C:\Users\1\Desktop\лабороторная работа\курсовая\курсовая\bin\Debug\курсовая.exe.config
+C:\Users\1\Desktop\лабороторная работа\курсовая\курсовая\obj\Debug\курсовая.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\лабороторная работа\курсовая\курсовая\obj\Debug\MainWindow.baml
+C:\Users\1\Desktop\лабороторная работа\курсовая\курсовая\obj\Debug\MainWindow.g.cs
+C:\Users\1\Desktop\лабороторная работа\курсовая\курсовая\obj\Debug\App.g.cs
+C:\Users\1\Desktop\лабороторная работа\курсовая\курсовая\obj\Debug\курсовая_MarkupCompile.cache
+C:\Users\1\Desktop\лабороторная работа\курсовая\курсовая\obj\Debug\курсовая.g.resources
+C:\Users\1\Desktop\лабороторная работа\курсовая\курсовая\obj\Debug\курсовая.Properties.Resources.resources
+C:\Users\1\Desktop\лабороторная работа\курсовая\курсовая\obj\Debug\курсовая.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\лабороторная работа\курсовая\курсовая\bin\Debug\курсовая.exe
+C:\Users\1\Desktop\лабороторная работа\курсовая\курсовая\bin\Debug\курсовая.pdb
+C:\Users\1\Desktop\лабороторная работа\курсовая\курсовая\obj\Debug\Window1.baml
+C:\Users\1\Desktop\лабороторная работа\курсовая\курсовая\obj\Debug\Window1.g.cs
+C:\Users\1\Desktop\лабороторная работа\курсовая\курсовая\obj\Debug\курсовая.exe
+C:\Users\1\Desktop\лабороторная работа\курсовая\курсовая\obj\Debug\курсовая.pdb
+C:\Users\1\Dropbox\курсовая\курсовая\bin\Debug\курсовая.exe.config
+C:\Users\1\Dropbox\курсовая\курсовая\obj\Debug\курсовая.exe
+C:\Users\1\Dropbox\курсовая\курсовая\obj\Debug\курсовая.pdb
+C:\Users\1\Dropbox\курсовая\курсовая\bin\Debug\курсовая.exe
+C:\Users\1\Dropbox\курсовая\курсовая\bin\Debug\курсовая.pdb
+C:\Users\1\Dropbox\курсовая\курсовая\obj\Debug\курсовая.csprojResolveAssemblyReference.cache
+C:\Users\1\Dropbox\курсовая\курсовая\obj\Debug\MainWindow.baml
+C:\Users\1\Dropbox\курсовая\курсовая\obj\Debug\Window1.baml
+C:\Users\1\Dropbox\курсовая\курсовая\obj\Debug\MainWindow.g.cs
+C:\Users\1\Dropbox\курсовая\курсовая\obj\Debug\Window1.g.cs
+C:\Users\1\Dropbox\курсовая\курсовая\obj\Debug\App.g.cs
+C:\Users\1\Dropbox\курсовая\курсовая\obj\Debug\курсовая_MarkupCompile.cache
+C:\Users\1\Dropbox\курсовая\курсовая\obj\Debug\курсовая.g.resources
+C:\Users\1\Dropbox\курсовая\курсовая\obj\Debug\курсовая.Properties.Resources.resources
+C:\Users\1\Dropbox\курсовая\курсовая\obj\Debug\курсовая.csproj.GenerateResource.Cache
